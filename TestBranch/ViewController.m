@@ -18,13 +18,9 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-<<<<<<< HEAD
-    self.view.backgroundColor = [UIColor purpleColor];
-=======
     self.view.backgroundColor = [UIColor brownColor];
     
     NSLog(@"第一次修改");
->>>>>>> AddNavigation
     
 }
 
