@@ -20,6 +20,8 @@
     
     self.view.backgroundColor = [UIColor blueColor];
     
+    NSLog(@"第一次修改");
+    
 }
 
 
