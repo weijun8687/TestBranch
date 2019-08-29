@@ -7,8 +7,8 @@ target 'TestBranch' do
 
   # Pods for TestBranch
 
-  pod 'MJExtension'
-  pod 'AFNetworking'
+#  pod 'MJExtension'
+#  pod 'AFNetworking'
 
   target 'TestBranchTests' do
     inherit! :search_paths
