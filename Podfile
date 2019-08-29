@@ -7,7 +7,7 @@ target 'TestBranch' do
 
   # Pods for TestBranch
 
-#  pod 'MJExtension'
+  pod 'MJExtension'
 #  pod 'AFNetworking'
 
   target 'TestBranchTests' do
