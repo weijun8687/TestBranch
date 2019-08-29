@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view.
     NSLog(@"测试 testing 分支");
+    NSLog(@"分支 二次i修改");
 }
 
 /*
