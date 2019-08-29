@@ -20,6 +20,7 @@
     
     NSLog(@"master 输出");
     
+    NSLog(@"测试 testing 分支");
 }
 
 /*
